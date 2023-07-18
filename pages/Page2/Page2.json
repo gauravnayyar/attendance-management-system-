@@ -14,7 +14,7 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 740,
+          "bottomRow": 770,
           "containerStyle": "none",
           "snapRows": 82,
           "parentRowSpace": 1,
@@ -34,7 +34,7 @@
               "confirmBeforeExecute": false,
               "pluginType": "SAAS",
               "jsonPathKeys": [
-                "appsmith.store.login.BatchNumber"
+                "appsmith.store.login.BatchNumber.toLocaleLowerCase()"
               ],
               "timeoutInMillisecond": 10000
             }

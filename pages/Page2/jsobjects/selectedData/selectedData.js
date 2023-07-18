@@ -47,6 +47,7 @@ export default {
 				"DeafultVehicle":false			}
 			this.userList.push(selectedRowsObject)
 		} )
+		
 		return this.userList;
 
 	},

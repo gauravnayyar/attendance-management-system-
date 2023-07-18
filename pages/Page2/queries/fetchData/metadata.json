@@ -73,7 +73,7 @@
               {
                 "condition": "EQ",
                 "key": "JathedarBatchNo",
-                "value": "{{appsmith.store.login.BatchNumber}}"
+                "value": "{{appsmith.store.login.BatchNumber.toLocaleLowerCase()}}"
               }
             ]
           }
@@ -90,7 +90,7 @@
     "invalids": [],
     "messages": [],
     "jsonPathKeys": [
-      "appsmith.store.login.BatchNumber"
+      "appsmith.store.login.BatchNumber.toLocaleLowerCase()"
     ],
     "userSetOnLoad": false,
     "confirmBeforeExecute": false,

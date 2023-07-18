@@ -81,7 +81,7 @@
     ],
     "compactMode": "DEFAULT",
     "displayName": "Table",
-    "bottomRow": 66,
+    "bottomRow": 73,
     "columnWidthMap": {
         "MobileNumber": 172,
         "Badge_no_": 138,
@@ -301,6 +301,6 @@
     "responsiveBehavior": "fill",
     "originalTopRow": 15,
     "mobileLeftColumn": 11,
-    "isVisiblePagination": false,
+    "isVisiblePagination": true,
     "verticalAlignment": "TOP"
 }
