@@ -1,0 +1,24 @@
+{
+  "unpublishedCollection": {
+    "name": "selectedData",
+    "pageId": "Page2",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "userList",
+        "value": "[]"
+      },
+      {
+        "name": "rowSelectData",
+        "value": "[]"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Page2_selectedData",
+  "deleted": false,
+  "gitSyncId": "6489f5f989dc3302f0029916_648c3c839885bb285c3481bc"
+}

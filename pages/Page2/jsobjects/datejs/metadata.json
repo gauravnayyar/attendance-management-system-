@@ -1,0 +1,28 @@
+{
+  "unpublishedCollection": {
+    "name": "datejs",
+    "pageId": "Page2",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "myVar1",
+        "value": "[]"
+      },
+      {
+        "name": "myVar2",
+        "value": "{}"
+      },
+      {
+        "name": "todaydate",
+        "value": "moment().toISOString()"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Page2_datejs",
+  "deleted": false,
+  "gitSyncId": "6489f5f989dc3302f0029916_64915ca87cb8515629f98b78"
+}
