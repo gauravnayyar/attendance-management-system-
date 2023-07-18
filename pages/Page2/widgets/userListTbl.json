@@ -297,7 +297,7 @@
     "renderMode": "CANVAS",
     "mobileTopRow": 17,
     "horizontalAlignment": "LEFT",
-    "isVisibleSearch": false,
+    "isVisibleSearch": true,
     "responsiveBehavior": "fill",
     "originalTopRow": 15,
     "mobileLeftColumn": 11,
