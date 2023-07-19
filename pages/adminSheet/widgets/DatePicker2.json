@@ -10,10 +10,12 @@
     "dynamicBindingPathList": [
         {"key": "accentColor"},
         {"key": "borderRadius"},
-        {"key": "defaultDate"}
+        {"key": "defaultDate"},
+        {"key": "minDate"},
+        {"key": "maxDate"}
     ],
     "isDisabled": false,
-    "isRequired": false,
+    "isRequired": true,
     "dynamicHeight": "FIXED",
     "accentColor": "{{appsmith.theme.colors.primaryColor}}",
     "isVisible": true,
@@ -25,8 +27,12 @@
     "closeOnSelection": true,
     "mobileBottomRow": 7,
     "widgetName": "DatePicker2",
-    "minDate": "1920-12-31T18:30:00.000Z",
-    "dynamicPropertyPathList": [{"key": "defaultDate"}],
+    "minDate": "{{datejs.minmumDate()}}",
+    "dynamicPropertyPathList": [
+        {"key": "defaultDate"},
+        {"key": "minDate"},
+        {"key": "maxDate"}
+    ],
     "displayName": "DatePicker",
     "searchTags": ["calendar"],
     "bottomRow": 7,
@@ -53,6 +59,6 @@
     "mobileLeftColumn": 26,
     "maxDynamicHeight": 9000,
     "firstDayOfWeek": 0,
-    "maxDate": "2121-12-31T18:29:00.000Z",
+    "maxDate": "{{datejs.maximumDate()()}}",
     "minDynamicHeight": 4
 }

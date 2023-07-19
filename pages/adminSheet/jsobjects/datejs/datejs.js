@@ -38,6 +38,7 @@ for (let i = 0; i < data.length; i++) {
   return uniqueData;
      },
 	getBadgeNumberFromAdmin(){
+		adminReport.run()
 		this.dataFetchFromMain =[];
 		let sn =0;
 		let reportdata = this.removeDuplicates(adminReport.data)

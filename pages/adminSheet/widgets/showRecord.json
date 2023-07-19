@@ -12,7 +12,6 @@
         {"key": "accentColor"},
         {"key": "borderRadius"},
         {"key": "boxShadow"},
-        {"key": "tableData"},
         {"key": "primaryColumns.name.computedValue"},
         {"key": "primaryColumns.sno.computedValue"},
         {"key": "primaryColumns.BadgeNumber.computedValue"},
@@ -23,7 +22,8 @@
         {"key": "primaryColumns.mobileVaccinationNo.computedValue"},
         {"key": "primaryColumns.firstDose.computedValue"},
         {"key": "primaryColumns.secondDose.computedValue"},
-        {"key": "primaryColumns.customColumn1.computedValue"}
+        {"key": "primaryColumns.customColumn1.computedValue"},
+        {"key": "tableData"}
     ],
     "needsHeightForContent": true,
     "leftColumn": 0,

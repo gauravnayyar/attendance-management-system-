@@ -28,17 +28,6 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "adminSheet_adminReport",
-              "name": "adminReport",
-              "confirmBeforeExecute": false,
-              "pluginType": "SAAS",
-              "jsonPathKeys": [
-                "DatePicker1.formattedDate",
-                "DatePicker2.formattedDate"
-              ],
-              "timeoutInMillisecond": 10000
-            },
-            {
               "id": "adminSheet_getMainDataByBadgeId",
               "name": "getMainDataByBadgeId",
               "confirmBeforeExecute": false,
