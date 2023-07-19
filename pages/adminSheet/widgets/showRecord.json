@@ -81,7 +81,7 @@
     ],
     "dynamicPropertyPathList": [{"key": "tableData"}],
     "displayName": "Table",
-    "bottomRow": 70,
+    "bottomRow": 74,
     "columnWidthMap": {
         "fromDate": 126,
         "sno": 91,
