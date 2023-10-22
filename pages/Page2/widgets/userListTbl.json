@@ -289,6 +289,7 @@
     "textSize": "0.875rem",
     "widgetId": "qrar6pzmjd",
     "allowAddNewRow": false,
+    "enableServerSideFiltering": false,
     "minWidth": 450,
     "tableData": "{{selectedData.getUserList()}}",
     "label": "Data",
