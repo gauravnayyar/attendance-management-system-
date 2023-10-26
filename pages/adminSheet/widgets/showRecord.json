@@ -435,6 +435,7 @@
     "rightColumn": 61,
     "textSize": "0.875rem",
     "widgetId": "nmxee1g8mu",
+    "enableServerSideFiltering": false,
     "minWidth": 450,
     "tableData": "{{datejs.dataFetchFromMain}}",
     "label": "Data",

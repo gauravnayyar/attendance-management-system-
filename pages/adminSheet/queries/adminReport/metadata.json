@@ -38,7 +38,8 @@
             "FromDate",
             "ToDate",
             "PhoneAllowed",
-            "VehicleAllowed"
+            "VehicleAllowed",
+            "SewadarType"
           ]
         },
         "queryFormat": {
