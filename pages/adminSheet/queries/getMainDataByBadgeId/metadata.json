@@ -39,7 +39,8 @@
             "Vaccination 2nd dose",
             "MobileVaccinationNo",
             "24hrs duty",
-            "BadgeNumber"
+            "BadgeNumber",
+            "Group"
           ]
         },
         "queryFormat": {
