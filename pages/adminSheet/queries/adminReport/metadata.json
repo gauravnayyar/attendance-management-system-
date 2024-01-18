@@ -33,14 +33,16 @@
           }
         },
         "projection": {
-          "data": [
+          "data": "[\n\t\"BadgeNumber\",\n\t\"FromDate\",\n\t\"ToDate\",\n\t\"PhoneAllowed\",\n\t\"VehicleAllowed\",\n\t\"SewadarType\"\n]",
+          "componentData": [
             "BadgeNumber",
             "FromDate",
             "ToDate",
             "PhoneAllowed",
             "VehicleAllowed",
             "SewadarType"
-          ]
+          ],
+          "viewType": "json"
         },
         "queryFormat": {
           "data": "ROWS"
