@@ -35,7 +35,8 @@
     "userSetOnLoad": false,
     "confirmBeforeExecute": false,
     "policies": [],
-    "userPermissions": []
+    "userPermissions": [],
+    "createdAt": "2023-07-13T17:43:13Z"
   },
   "id": "adminSheet_datejs.cleartable",
   "deleted": false,

@@ -39,7 +39,8 @@
     "userSetOnLoad": false,
     "confirmBeforeExecute": false,
     "policies": [],
-    "userPermissions": []
+    "userPermissions": [],
+    "createdAt": "2023-06-20T08:32:25Z"
   },
   "id": "Page2_selectedData.getvehicleAvailable",
   "deleted": false,
